@@ -22,3 +22,8 @@ Escenario B – Análisis de Ventas de una Pequeña Empresa
 # Cómo Ejecutar
 Ejecutar el archivo:
 scripts/analisis_ventas.py
+
+## Estructura del proyecto
+- /datos → dataset CSV
+- /scripts → código Python
+- /resultados → gráficos generados
